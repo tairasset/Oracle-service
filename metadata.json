@@ -1,0 +1,5 @@
+{
+  "name": "AI Trading Bot Project Planner",
+  "description": "An interactive project planner and simulator to help you build your AI-Powered Telegram Trading Bot. Get simulated stock predictions, generate report content, and organize your project tasks.",
+  "requestFramePermissions": []
+}
